@@ -1,8 +1,8 @@
-# Yukimikanの技術ブログ
-## 記事一覧
-hello
+# ブログについて
+<img src="/assets/IMG_0000.png" width="10%">
 
-## a
-aaa
-### b
-bbbb
+茨城県に住むインフラ系エンジニアYukimikanです。
+
+日々の技術的なアウトプットをしていきます。
+
+# 記事一覧
