@@ -1,8 +1,18 @@
-# ブログについて
-<img src="/assets/IMG_0000.png" width="10%">
+# 自己紹介
 
 茨城県に住むインフラ系エンジニアYukimikanです。
 
-日々の技術的なアウトプットをしていきます。
+趣味は読書と散歩。
 
-# 記事一覧
+行ってみたい国はフィンランドです。
+
+# 活動
+
+|サービス|アカウント|
+|---|---|
+|GitHub|[ykmkn](https://github.com/ykmkn)|
+|Qiita|[Yukimikan](https://qiita.com/ykmkn)|
+|子育てブログ|[毋、時々コード](https://snow-orange.hatenablog.com/)|
+|読書メーター|[Yukimikan](https://bookmeter.com/users/1530513)|
+
+

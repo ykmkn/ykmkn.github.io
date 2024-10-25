@@ -1,6 +1,5 @@
-title: Yukimikanの技術ブログ
-description: 茨城に住むインフラ系エンジニアの技術ブログ
+title: Yukimikanについて
+description: 茨城に住むインフラ系エンジニア
 theme: jekyll-theme-cayman
 github : [metadata]
-date_format: "%b-%d-%Y"
-show_excerpts: true
+github-username: ykmkn
